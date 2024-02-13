@@ -14,7 +14,11 @@
 - ⚡ Fun fact: ...
 
 ### 🚀 Languages and Tools:
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 ![image](https://github.com/siahvosh/siahvosh/assets/110711504/8ecd250b-d0ce-4540-bb3c-5977662e1e51)
 ![image](https://github.com/siahvosh/siahvosh/assets/110711504/87311033-f10b-4ab1-a6f2-45f4b124a426)
 ![image](https://github.com/siahvosh/siahvosh/assets/110711504/ecfa4c9c-da32-4d05-afc6-8fcf2ff35b5e)
