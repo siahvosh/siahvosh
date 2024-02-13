@@ -16,7 +16,7 @@
   
 <hr class="solid">
 <h1>  🚀 Languages and Tools: </h1>
-<p align="start" style="margin-left: 5px">
+<p align="start">
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,mysql,postman&perline=8"/>
   </a>
