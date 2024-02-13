@@ -24,7 +24,7 @@
 <hr class="solid">
 <!-- https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,mysql,postman -->
 
-### 🌐 Connect with me ❤ :
+<h1> 🌐 Connect with me ❤ : </h1>
 
 <p align="start">
   <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+</h1>
 
 
 
