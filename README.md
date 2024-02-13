@@ -16,7 +16,7 @@
 ### 🚀 Languages and Tools:
 <p align="start">
   <a href="https://skillicons.dev">
-    <img style="width: 600px" src="[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+    <img style="width: 600px" src="![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)(https://skillicons.dev)
 "/>
   </a>
 </p>
