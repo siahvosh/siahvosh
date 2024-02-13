@@ -16,7 +16,7 @@
 ### 🚀 Languages and Tools:
 <p align="start">
   <a href="https://skillicons.dev">
-    <img style="size: 30px" src="https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,mysql,postman" />
+    <img style="width: 400px; height: 400px" src="https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,mysql,postman" />
   </a>
 </p>
 
