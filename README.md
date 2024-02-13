@@ -14,7 +14,7 @@
 - ⚡ Fun fact I play Rainbow6, Dota2, Fifa
 
   
-<hr class="solid">
+<hr class="solid" style="margin-top: 1px">
 <h1>  🚀 Languages and Tools: </h1>
 <p align="start">
   <a href="https://skillicons.dev">
