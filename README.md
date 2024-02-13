@@ -24,7 +24,7 @@
 <hr class="solid">
 <!-- https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,mysql,postman -->
 
-<h2> 🌐 Connect with me ❤ : </h2>
+<h2> 🌐 Connect with me : </h2>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/siavash-miralikhani-a4940b243/">
