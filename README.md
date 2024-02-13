@@ -28,13 +28,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
-    <img style="width: 35px" src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
-    <img style="width: 35px" src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
     <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
-    <img style="width: 35px" src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
