@@ -16,7 +16,7 @@
 ### 🚀 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,figma,docker,cpp,css,github,gitlab,html,js,jest,mongodb,mysql,postman,vue,py" />
   </a>
 </p>
 <!-- ![image](https://github.com/siahvosh/siahvosh/assets/110711504/8ecd250b-d0ce-4540-bb3c-5977662e1e51)
