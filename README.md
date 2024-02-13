@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 
 ### 🚀 Languages and Tools:
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,git,ts,vue,html,css,cpp,py,figma,docker,github,gitlab,jest,mongodb,mysql,postman" />
   </a>
