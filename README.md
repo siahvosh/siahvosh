@@ -32,6 +32,9 @@
   <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+    <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </p>
 
 
