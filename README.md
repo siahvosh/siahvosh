@@ -13,6 +13,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact I play Rainbow6, Dota2, Fifa
 
+  
+<hr class="solid">
 ### 🚀 Languages and Tools:
 <p align="start">
   <a href="https://skillicons.dev">
