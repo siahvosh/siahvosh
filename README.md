@@ -20,7 +20,7 @@
   </a>
 </p>
 
-### 🚀 Languages and Tools:
+### 🌐 Connect with me ❤ :
 
 <p align="center">
   <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
