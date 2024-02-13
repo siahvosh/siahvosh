@@ -19,7 +19,7 @@
     <img  src="https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,mysql,postman&perline=8"/>
   </a>
 </p>
-<divider style="color: red"></divider> 
+<hr class="solid">
 <!-- https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,mysql,postman -->
 
 ### 🌐 Connect with me ❤ :
