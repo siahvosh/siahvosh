@@ -24,16 +24,16 @@
 
 <p align="start">
   <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img style="width: 600px" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img style="width: 600px" src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img style="width: 600px" src="https://skillicons.dev/icons?i=twitter" />
   </a>
     <a href="[https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/siavash-miralikhani-a4940b243/)">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img style="width: 600px" src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
