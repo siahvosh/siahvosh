@@ -1,5 +1,7 @@
- <h2 align="center"> Hi there 👋 I'm Siavash Mir </h2>
-### I'm a passionate Front-End Developer from Iran.
+ <h2 align="center"> Hi there 👋 I'm Siavash Mir <br>
+ I'm a passionate Front-End Developer from Iran.
+ </h2>
+
 <!--
 **siahvosh/siahvosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
