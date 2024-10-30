@@ -18,7 +18,7 @@
 <h2>  🚀 Languages and Tools: </h2>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,mysql,postman&perline=8"/>
+    <img  src="https://skillicons.dev/icons?i=js,ts,vue,html,css,cpp,py,figma,git,docker,github,gitlab,jest,mongodb,react,mysql,postman&perline=8"/>
   </a>
 </p>
 <hr class="solid">
